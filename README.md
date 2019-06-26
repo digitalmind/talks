@@ -34,9 +34,13 @@ Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Blo
 - 🔗 HDMI
 - 🎤 🙅‍
 
-### Nicosia (Λευκωσία) [Nicosia Chapter](https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
+### Nicosia (Λευκωσία, Lefkoşa) [Nicosia Chapter](https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
+Address: FutureWorldCenter, Gregori Afxentiou 36, Agios Dometios, 2360 Nicosia
 
-TBD
+- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/cyprusjs-nicosia
+- 🖥 Presentation on Projector
+- 🔗 VGA / Chromecast
+
 
 ### Larnaca (Λάρνακα) [Larnaca Chapter](https://github.com/orgs/cyprusjs/teams/larnaca-chapter)
 
